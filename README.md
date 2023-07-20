@@ -1,6 +1,12 @@
 # Kalkulator BMI (Indeks Massa Tubuh)
 Selamat datang di Kalkulator BMI! Ini adalah sebuah proyek sederhana untuk menghitung Indeks Massa Tubuh (BMI) berdasarkan tinggi dan berat badan yang Anda masukkan. BMI adalah metode yang umum digunakan untuk mengevaluasi apakah seseorang memiliki berat badan yang sehat sesuai dengan tinggi badannya.
 
+# Instalasi
+1. Clone repository berikut :
+   $ git clone https://github.com/revou-fundamental-course/10-jul-23-tito-sulano.git
+2. Masuk ke direktori
+   $ cd 10-jul-23-tito-sulano
+
 # Cara Menggunakan Kalkulator BMI
 1. Buka index.html pada browser web Anda.
 2. Pilih jenis kelamin.
